@@ -27,7 +27,7 @@ Este repositorio contiene 19 ejercicios prácticos de programación en Java. Est
 ## 🚀 Cómo ejecutar los ejercicios
 
 1. Clona el repositorio:
-   git clone https://github.com/tuusuario/ejercicios-java.git
+   git clone https://github.com/RelaxUniver/ejercicios-java.git
 
 2. Entra a la carpeta:
    cd ejercicios-java
